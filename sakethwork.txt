@@ -1,1 +1,2 @@
-this is the second message to the git 
+this is the second message to the git .
+how was the work going on .
